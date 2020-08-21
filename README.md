@@ -5,6 +5,6 @@ The proposed system is a scanner 🖨 which can detect document edges and intell
 
 python3 documentScanner.py
 
-### Input from Webcam
+### Input from Webcam & Scanned Document
 
 <img src="https://github.com/OmRajpurkar/Document-Scanner/blob/master/Screenshot.png" alt="alt text" width="600" height="400">
